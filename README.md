@@ -1,9 +1,3 @@
-Got it — you want a **more detailed** and **better formatted** README, using **symbols**, **emojis**, and **clearer steps** so it looks more professional and user-friendly.
-
-Here’s an upgraded version for you:
-
----
-
 # 🪑 Seating Arrangement System
 
 A **web-based seating arrangement system** designed to automate and organize seating plans effectively.  
@@ -157,6 +151,3 @@ cd ../backend
 ```
 
 ---
-
-Would you also like me to create a "COPY THIS README TEMPLATE" section you can directly paste into GitHub with little editing? 🚀  
-Would make your upload even faster!
