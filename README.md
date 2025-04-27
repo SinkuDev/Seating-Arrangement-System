@@ -33,7 +33,7 @@ Follow these simple steps to get the project running on your local machine:
 ### 📂 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/SinkuDev/Seating-Arrangement-System.git
 cd your-repository
 ```
 
@@ -127,10 +127,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-- 👨‍💻 Developer: [Your Name]
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-website.com]
-- 🔗 GitHub: [https://github.com/your-username/your-repository](https://github.com/your-username/your-repository)
+- 👨‍💻 Developer: [Sinku singh]
+- 📧 Email: [sinkusingh173@gmail.com]
+- 🔗 GitHub: [https://github.com/SinkuDev]
 
 ---
 
@@ -138,7 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/SinkuDev/Seating-Arrangement-System.git
 
 # Install frontend
 cd frontend
