@@ -14,6 +14,11 @@ This project is built with **React Vite** (Frontend) and **Spring Boot Java** (B
 - 📊 **Seating Reports and Downloads**
 
 ---
+## 🚀 Project Architecture
+![DFD](https://github.com/user-attachments/assets/71df7d0a-3295-4c52-a481-fd5748e57720)
+
+
+---
 
 ## 🛠️ Technologies Used
 
